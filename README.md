@@ -11,7 +11,7 @@ This project implements an Online Library Management System using Object-Oriente
 
  Tools Used
 - Code::Blocks IDE
-- MinGW GCC Compiler
+-  GCC Compiler
 
 How to Run
 1. Open the project in Code::Blocks

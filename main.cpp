@@ -5,10 +5,10 @@ using namespace std;
 int main() {
     Library library;
 
-    library.addBook(Book(1, "C++ Programming", "Bjarne Stroustrup"));
-    library.addBook(Book(2, "Data Structures", "Mark Allen"));
+    library.addBook(Book(1, "C++ Programming", "Ali kiungo"));
+    library.addBook(Book(2, "Data Structures", "Abdalla Fikiri"));
 
-    library.registerUser(User(101, "Alice"));
+    library.registerUser(User(101, "Khalid"));
 
     library.searchBookByTitle("C++ Programming");
 
